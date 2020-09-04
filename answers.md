@@ -82,3 +82,19 @@ Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
 ```
+## Answer 10
+*Local copy was not changed*
+## Answer 11
+*An error occurs since the remote repository is ahead of ours*
+## Answer 12
+*The changes have now appeared in README*
+## Answer 13
+```
+    Directory: C:\Users\blake\Documents\Classes\cs2400\labs\git-lab-2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9/4/2020   2:39 PM            302 .gitignore
+-a----          9/4/2020   2:39 PM             11 README.md
+```
